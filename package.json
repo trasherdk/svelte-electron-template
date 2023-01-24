@@ -19,7 +19,7 @@
     "@babel/core": "^7.17.5",
     "@storybook/svelte": "^6.4.19",
     "babel-loader": "^8.2.3",
-    "browser-sync": "^2.27.7",
+    "browser-sync": "^2.27.11",
     "concurrently": "^7.0.0",
     "cross-env": "^7.0.3",
     "electron": "^18.3.7",
